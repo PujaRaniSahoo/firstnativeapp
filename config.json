@@ -1,10 +1,10 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.firstnativeapp.mobile",
-    "appName": "firstnativeapp",
+    "appIdentifier": "com.nativemobileapp.mobile",
+    "appName": "NativeMobileApp",
     "bundleName": {
-        "main": "firstnativeapp",
-        "dev": "firstnativeaDev"
+        "main": "NativeMobileApp",
+        "dev": "NativeMobileDev"
     },
     "deviceTarget": {
         "phone": true,
@@ -91,5 +91,8 @@
         "appCenterOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "https://nativemobileapp193-sandbox.mxapps.io/"
 }
